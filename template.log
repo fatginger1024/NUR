@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.23)  10 OCT 2020 01:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.23)  10 OCT 2020 01:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -392,10 +392,6 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 23.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 23.
 Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: 97C8FDDFF58B812BDA6798F0C254CD54;136.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 23.
  ) 
 Here is how much of TeX's memory you used:
@@ -418,7 +414,7 @@ s/type1/public/amsfonts/cm/cmr5.pfb></Users/tardis/Library/TinyTeX/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmr8.pfb></Users/tardis/Library/TinyTeX/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr9.pfb></Users/tardis/Library/TinyTeX/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on template.pdf (8 pages, 180629 bytes).
+Output written on template.pdf (8 pages, 180890 bytes).
 PDF statistics:
  607 PDF objects out of 1000 (max. 8388607)
  576 compressed objects within 6 object streams

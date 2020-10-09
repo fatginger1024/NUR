@@ -1,5 +1,19 @@
 #!/bin/bash
 
+echo "Download image for in report..."
+if [ ! -e wgs.dat ]; then
+  wget https://home.strw.leidenuniv.nl/~daalen/Handin_files/wgs.dat
+fi
+  
+if [ ! -e wss.dat ]; then
+  wget https://home.strw.leidenuniv.nl/~daalen/Handin_files/wss.dat
+fi
+
+if [ ! -e coolingtables_highres.tar.gz ]; then
+  wget https://www.strw.leidenuniv.nl/WSS08/coolingtables_highres.tar.gz
+  tar -zxvf coolingtables_highres.tar.gz
+fi
+
 echo "Run handin template"
 
 
